@@ -14,6 +14,10 @@
                 "value": "Firefox"
             },
             {
+                "label": "Minimal",
+                "value": "Minimal"
+            },
+            {
                 "label": "Custom",
                 "value": "Custom"
             }
